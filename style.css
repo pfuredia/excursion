@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+video {
+    background-color: black;
+    text-align: center;
+}
+.guide {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+.likes {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+img {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.phone {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.footLink {
+    text-align: right;
+    color: gray;
+    font-size: 20px;
+    font-weight: normal;
+}
